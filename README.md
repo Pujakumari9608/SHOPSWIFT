@@ -19,3 +19,6 @@
 *CSS3
 *JAVASCRIPT
 *BOOTSTRAP,REACT
+
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/9889582c-cf8a-4322-988e-898b00f88e19)
